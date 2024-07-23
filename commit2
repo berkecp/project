@@ -1,3 +1,2 @@
-DENEME
-asdasd
-şsadldkiasdl
+def addition(a, b)
+  return a+b
