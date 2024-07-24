@@ -1,7 +1,7 @@
 asdasdsdef addition(a, b)
    return a+b
 
-def substraction(a, b)
+def substraction(a, b)a
    return a/b
 
 
