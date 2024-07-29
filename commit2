@@ -2,6 +2,6 @@ def addition(a, b):
    return a+badas
 
 def substraction(a, b):
-   return a/bs
+   return a/b
 
 
