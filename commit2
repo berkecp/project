@@ -1,11 +1,7 @@
-xzczxczcxzcxdfhgdfasdasd<xacascdfvdsvdasdaasdasasddasdasdaslkkdmasş
-
-asdakbjf addition(a, b)
+def addition(a, b)
    return a+badas
 
 def substraction(a, b)a
-
-
-   return a/bsadasd
+   return a/bs
 
 
